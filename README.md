@@ -2,7 +2,7 @@
 
 ### [Challenges](http://adventofcode.com/2018)
 
-  * TODO
+  * Day 1 - Chronal Calibration  ★ ★
 
 
 ### Run a challenge
